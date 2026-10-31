@@ -51,6 +51,6 @@ Hệ thống dự đoán mức độ yêu thích phim của người dùng và �
 ## 7. Nhóm thực hiện
 Tên nhóm: [Điền tên nhóm]
 
-Thành viên: [Điền tên thành viên]
+Thành viên: Võ Hoàng Đăng Khoa, Châu Trung Hậu, Nhị Anh Hào
 
 Môn học: CMP169 - Trí tuệ nhân tạo
